@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IC", "Project IC\Project IC.vcxproj", "{B0E892F3-31FF-4AC4-9D80-C58D98FD5E3F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rud", "rud\projects\lithium.vcxproj", "{B0E892F3-31FF-4AC4-9D80-C58D98FD5E3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
